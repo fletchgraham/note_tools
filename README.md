@@ -5,6 +5,8 @@ utilities to help me take notes
 makes a tab separated text file for adding basic cards to anki.
 It assumes my style of making notes in text edit which is essentially:
 
+```
+
 HEADER
 SUBHEADER
 
@@ -23,4 +25,6 @@ Answer
 ---
 
 ...
+
+```
 
